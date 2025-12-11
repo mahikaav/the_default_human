@@ -9,6 +9,7 @@ The project examines how gender, race, and professional framing defaults emerge 
 ---
 
 ## Repository Structure
+```
 .
 ├── image_outputs/
 │ ├── assistant_1.png
@@ -19,7 +20,7 @@ The project examines how gender, race, and professional framing defaults emerge 
 │
 ├── coding.xlsx
 └── README.md
-
+```
 ### `image_outputs/`
 Contains all image generations produced using **DALL·E 3 via Bing Image Creator**, with:
 - **2 images per role**
